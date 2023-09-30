@@ -1,4 +1,4 @@
-### Hi there 👋
+### .... . .-.. .-.. --- / .-- --- .-. .-.. -.. 👋
 
 <!--
 **PedroRamonee/PedroRamonee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,8 +20,10 @@ Here are some ideas to get you started:
 - 💬 Ask me anything about Chess ♟️
 - 📫 How to reach me: 
 <a href="https://www.instagram.com/__ramonee_/">
-<img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxcFncjSRYjJWiHjU_2ksLkcSNdh4gG9lnUA&usqp=CAU"/>
+<img widht="270rem" height="270rem" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxcFncjSRYjJWiHjU_2ksLkcSNdh4gG9lnUA&usqp=CAU"/>
 </a>
 <a href="https://twitter.com/__Ramonee_">
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img widht="147rem" height="147rem" src ="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxcFncjSRYjJWiHjU_2ksLkcSNdh4gG9lnUA&usqp=CAU](https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0.jpg)https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0.jpg"/>
+</a>
+<br><br>
+- ⚡ Fun fact: I LOVE CRYPTOGRAPHY
